@@ -1,0 +1,17 @@
+{
+    "IndexPage": {
+        "title": "next-intl näide",
+        "description": "Tere tulemast Next.js rahvusvahelise (i18n) näite juurde!"
+    },
+    "NotFoundPage": {
+        "title": "Lehte ei leitud",
+        "description": "Oih! Näib, et olete sattunud lehele, mida pole olemas!"
+    },
+    "Navigation": {
+        "home": "kodu",
+        "test": "test"
+    },
+    "Footer": {
+        "copyright": "c 2024 Sinu App. Kõik õigused reserveeritud"
+    }
+}
